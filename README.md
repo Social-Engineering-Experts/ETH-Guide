@@ -49,3 +49,4 @@ Once deployed, you will receive the contract address and the transaction hash.
 ![2ff0b8bbde1806fc2921349476c10b49.png](./resources/2ff0b8bbde1806fc2921349476c10b49.png)
 
 Now, you are ready to play!
+
