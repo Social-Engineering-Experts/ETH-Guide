@@ -2,6 +2,8 @@
 
 Before you begin, you will need a Metamask account or any account that can interact and send funds.
 
+> Sidenote: Please try to use Chromium based browsers.
+
 ## Setting Up Metamask
 
 Follow the steps here to setup your [metamask](https://nftnow.com/guides/how-to-set-up-metamask-wallet/).
@@ -47,4 +49,3 @@ Once deployed, you will receive the contract address and the transaction hash.
 ![2ff0b8bbde1806fc2921349476c10b49.png](./resources/2ff0b8bbde1806fc2921349476c10b49.png)
 
 Now, you are ready to play!
-
