@@ -2,7 +2,7 @@
 
 Before you begin, you will need a Metamask account or any account that can interact and send funds.
 
-> Sidenote: Please try to use Chromium based browsers.
+**IMPORTANT!**: Please use Chromium based browsers.
 
 ## Setting Up Metamask
 
